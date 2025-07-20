@@ -1,0 +1,8 @@
+streamlit
+folium
+streamlit-folium
+numpy
+requests
+networkx
+matplotlib
+shapely
